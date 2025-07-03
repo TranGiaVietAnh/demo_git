@@ -56,4 +56,13 @@ public class Baitap {
         System.out.println("Tổng chẵn từ 1 đến n " + sumEven);
         scanner.close();
     }
+    //public boolean CheckCHuoiDOiXung(String n){
+//        int insdexTrai=0;
+//        int indexPhai = n.length()-1;
+//
+//        while(insdexTrai<indexPhai){
+//            n[insdexTrai] != n[indexPhai];
+//            return false;
+//        }
+    //}
 }
